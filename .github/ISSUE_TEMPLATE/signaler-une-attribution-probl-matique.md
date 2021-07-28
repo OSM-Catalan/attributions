@@ -1,21 +1,21 @@
 ---
-name: Signaler une attribution problématique
-about: pas complète, difficile à trouver, demande une interaction particulière, ...
+name: Notifiqueu una atribució problemàtica
+about: no completa, difícil de trobar, requereix una interacció especial, ...
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-📢 **Ajoutez un titre explicite**
-Site de la ville de Paris – Pas d'attribution
-[Agence ComWeb] 5 sites sans attribution
-...
+📢 **Afegiu un títol significatiu**  
+  `Lloc del municipi de Sant Esteve de les Roures: cap atribució`  
+  `[Agència ComWeb] 5 llocs sense atribució`  
+  `...`
 
-**Description**
+**Descripció**
 
-- Adresse Web, service, produit concerné
-- web, print, autres
-- Date de prise de contact (et par quel moyen ?)
+- Adreça web, servei, producte en qüestió
+- web, impressió, altres
+- Data de contacte (i per quins mitjans?)
 
-**En quoi l'attribution est-elle problématique ?**
+**Per què és problemàtica l’atribució?**
