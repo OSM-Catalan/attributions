@@ -1,6 +1,6 @@
 ---
-name: Une question relative à l'attribution
-about: si ce n'est ni une attribution manquante ou problématique, alors c'est ici
+name: Una qüestió sobre l'atribució
+about: si no és una atribució faltant o problemàtica, és aquí
 title: ''
 labels: question
 assignees: ''
