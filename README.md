@@ -55,3 +55,21 @@ Per afegir una nova manca d'atribució al mapa:
 - [wiki.openstreetmap.org - Preguntes freqüents legals](https://wiki.openstreetmap.org/wiki/Legal_FAQ)
 - [wiki.osmfoundation.org - Llicència](https://wiki.osmfoundation.org/wiki/Licence)
 - [wiki.osmfoundation.org - Llicència i PMF legals](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)
+
+## Exemple correu demanant attribució 
+
+Bon dia
+El meu nom és **elteunom** , i sóc membre de la comunitat catalana d'Openstreetmap, quelcom així com "la viquipèdia dels mapes" (i per més senyes és el mapa que feu servir a la vostra web). N'estem molt contents que així sigui. Moltíssimes gràcies per utilitzar-nos.
+
+Però per desgràcia veig que aquest agraïment no pot ser complet donat que en cap lloc del mapa es veu aquesta atribució del nostre treball, ja sigui amb un mapa d'Openstreetmap o obra derivada (empreses alienes a Openstreetmap) i que fan servir la feina de més de 7 milions de persones mapejadores.
+
+Podeu trobar més informació a https://www.openstreetmap.org/copyright i a https://github.com/OSM-Catalan/attributions
+
+Des de la Comunitat Catalana d'OSM us agrairíem molt que ho poguéssiu solventar a la major brevetat possible.
+Si teniu cap dubte de com fer l'atribució, feu-nos saber.
+
+Gràcies per la vostra atenció
+
+Salut i Mapes
+
+**Elteunom**
